@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: player
+    uniqueID: 3063944869
+    locked: 0
+  - name: air_conditionner
+    uniqueID: 2259013917
+    locked: 0
+  - name: background
+    uniqueID: 449240201
+    locked: 0
